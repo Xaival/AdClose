@@ -34,3 +34,8 @@ Extensión [AdClose](https://chrome.google.com/webstore/detail/adclose/lajefbdhb
 7. Para terminar solo le tienes que dar donde pone importar.
 
 ![image](https://user-images.githubusercontent.com/54257745/112395234-4c065f80-8cfe-11eb-8224-d65490cc5f3d.png)
+
+8. Y ya te aparecerian en la lista.
+
+![image](https://user-images.githubusercontent.com/54257745/112395389-8d970a80-8cfe-11eb-9f94-f9cc98c23e86.png)
+
