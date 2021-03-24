@@ -8,7 +8,7 @@ Extensión [AdClose](https://chrome.google.com/webstore/detail/adclose/lajefbdhb
 ### Para importar esta lista de webs a tu AdClose
 
 1. Ve al archivo en bruto [adclose.json](https://raw.githubusercontent.com/Xaival/AdClose/main/adclose.json).
-2. Pulsa con clic derecho en cualquier parte de la pagina y dale a la opcion de "Guardar como..."
+2. Pulsa con clic derecho en cualquier parte de la pagina y dale a la opcion de **"Guardar como..."**.
 3. Por ultimo selecciona donde quieres que se guarde.
 4. Entra en las opciones de la extencion.
 5. (Opcional) Dentro de este borra todos los dominios que vienen por defecto.
