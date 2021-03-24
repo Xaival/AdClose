@@ -11,5 +11,6 @@ Extensión [AdClose](https://chrome.google.com/webstore/detail/adclose/lajefbdhb
 2. Pulsa con clic derecho en cualquier parte de la pagina y dale a la opcion de "Guardar como..."
 3. Por ultimo selecciona donde quieres que se guarde.
 4. Entra en las opciones de la extencion.
-5. En el menu de arriba selecciona Import y agrega el archivo adclose.json descargado.
-6. Para terminar solo le tienes que dar donde pone importar.
+5. Dentro de este borra todos los dominios que vienen por defecto.
+6. En el menu de arriba selecciona Import y agrega el archivo adclose.json descargado.
+7. Para terminar solo le tienes que dar donde pone importar.
