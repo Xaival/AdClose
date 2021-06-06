@@ -23,7 +23,7 @@ Extensión [AdClose](https://chrome.google.com/webstore/detail/adclose/lajefbdhb
 
 ![image](https://user-images.githubusercontent.com/54257745/112394783-8fac9980-8cfd-11eb-861e-d2a658d3b5c5.png)
 
-5. En el menu de arriba selecciona Import.
+5. En el menú de arriba selecciona Import.
 
 ![image](https://user-images.githubusercontent.com/54257745/112394998-e31ee780-8cfd-11eb-8484-9c5808811efa.png)
 
