@@ -11,7 +11,7 @@ Extensión [AdClose](https://chrome.google.com/webstore/detail/adclose/lajefbdhb
 
 ![image](https://user-images.githubusercontent.com/54257745/112394300-c59d4e00-8cfc-11eb-96d4-83030a897eb6.png)
 
-2. Por ultimo selecciona donde quieres que se guarde.
+2. Por último selecciona dónde quieres que se guarde.
 
 ![image](https://user-images.githubusercontent.com/54257745/112394402-f67d8300-8cfc-11eb-8d80-6320dd7fa533.png)
 
