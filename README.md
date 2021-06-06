@@ -27,7 +27,7 @@ Extensión [AdClose](https://chrome.google.com/webstore/detail/adclose/lajefbdhb
 
 ![image](https://user-images.githubusercontent.com/54257745/112394998-e31ee780-8cfd-11eb-8484-9c5808811efa.png)
 
-6. Agrega el archivo adclose.json descargado
+6. Agrega el archivo adclose.json descargado.
 
 ![image](https://user-images.githubusercontent.com/54257745/112395190-34c77200-8cfe-11eb-8416-8829b3f82083.png)
 
@@ -35,7 +35,7 @@ Extensión [AdClose](https://chrome.google.com/webstore/detail/adclose/lajefbdhb
 
 ![image](https://user-images.githubusercontent.com/54257745/112395234-4c065f80-8cfe-11eb-8224-d65490cc5f3d.png)
 
-8. Y ya te aparecerian en la lista.
+8. Y ya te aparecerán en la lista.
 
 ![image](https://user-images.githubusercontent.com/54257745/112395389-8d970a80-8cfe-11eb-9f94-f9cc98c23e86.png)
 
