@@ -1,7 +1,7 @@
 # AdClose
 Lista de AdClose diseñada para cerrar paginas automáticamente.
 
-Lista obtenida de https://docs.google.com/spreadsheets/d/13DyjdzSOBRP80adRRXV9sJvhYss-I6DNNpugFYoj2cM/edit#gid=1531361087
+Lista obtenida de [Tiswagos Liri](https://docs.google.com/spreadsheets/d/13DyjdzSOBRP80adRRXV9sJvhYss-I6DNNpugFYoj2cM/edit#gid=1531361087).
 
 Extensión [AdClose](https://chrome.google.com/webstore/detail/adclose/lajefbdhbjklppiikcinlidnokliankm) para Google Chrome
 
