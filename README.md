@@ -7,7 +7,7 @@ Extensión [AdClose](https://chrome.google.com/webstore/detail/adclose/lajefbdhb
 
 ### Para importar esta lista de webs a tu AdClose
 
-1. Ve al archivo en bruto [adclose.json](https://raw.githubusercontent.com/Xaival/AdClose/main/adclose.json) y pulsa con clic derecho en cualquier parte de la pagina y dale a la opcion de **"Guardar como..."**.
+1. Ve al archivo en bruto [adclose.json](https://raw.githubusercontent.com/Xaival/AdClose/main/adclose.json) y pulsa con clic derecho en cualquier parte de la página y dale a la opción de **"Guardar como..."**.
 
 ![image](https://user-images.githubusercontent.com/54257745/112394300-c59d4e00-8cfc-11eb-96d4-83030a897eb6.png)
 
