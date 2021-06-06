@@ -15,7 +15,7 @@ Extensión [AdClose](https://chrome.google.com/webstore/detail/adclose/lajefbdhb
 
 ![image](https://user-images.githubusercontent.com/54257745/112394402-f67d8300-8cfc-11eb-8d80-6320dd7fa533.png)
 
-3. Entra en las opciones de la extencion.
+3. Entra en las opciones de la extensión.
 
 ![image](https://user-images.githubusercontent.com/54257745/112394526-27f64e80-8cfd-11eb-963d-6abd1d7678f8.png)
 
