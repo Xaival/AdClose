@@ -1,5 +1,5 @@
 # AdClose
-Lista de AdClose diseñada para cerrar paginas automáticamente.
+Lista de AdClose diseñada para cerrar páginas automáticamente.
 
 Lista obtenida de [Tiswagos Liri](https://docs.google.com/spreadsheets/d/13DyjdzSOBRP80adRRXV9sJvhYss-I6DNNpugFYoj2cM/edit#gid=1531361087).
 
